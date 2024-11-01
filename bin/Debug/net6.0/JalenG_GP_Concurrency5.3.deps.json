@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "JalenG_GP_Concurrency5.3/1.0.0": {
+        "runtime": {
+          "JalenG_GP_Concurrency5.3.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "JalenG_GP_Concurrency5.3/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
